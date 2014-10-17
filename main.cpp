@@ -1,4 +1,5 @@
 #include "sdt.h"
+//Прога учебная
 main()
 {
 cout<<"Input two numbers: ";
