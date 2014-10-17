@@ -9,4 +9,5 @@ cout<<a+b;
 cout<<",a raznost'";
 cout<<a-b;
 cout<<a*b;
+cout<<a/b;
 }
